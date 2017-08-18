@@ -1,5 +1,5 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+*.csv
+*.pyc
+*.db
+*.DS_Store
+MNIST_data
